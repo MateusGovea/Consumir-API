@@ -1,0 +1,14 @@
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\bin\Debug\net8.0\Consumir API.exe
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\bin\Debug\net8.0\Consumir API.deps.json
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\bin\Debug\net8.0\Consumir API.runtimeconfig.json
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\bin\Debug\net8.0\Consumir API.dll
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\bin\Debug\net8.0\Consumir API.pdb
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\Consumir API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\Consumir API.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\Consumir API.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\Consumir API.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\Consumir API.dll
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\refint\Consumir API.dll
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\Consumir API.pdb
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\Consumir API.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\Curso C# Alura\Consumir API\Consumir API\obj\Debug\net8.0\ref\Consumir API.dll
